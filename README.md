@@ -1,19 +1,18 @@
-#- Customer-Segmentation-Using-RFM-Analysis-
+# Customer-Segmentation-Using-RFM-Analysis
+
 Python, Power BI
-Customer Segmentation Using RFM Analysis
-📌 Project Overview
 
 This project focuses on Customer Segmentation using RFM (Recency, Frequency, Monetary) Analysis to identify customer groups based on their purchasing behavior.
-
 The analysis was performed on the Online Retail dataset and uses Python for data cleaning, preprocessing, RFM analysis, and customer segmentation. A Power BI dashboard was created to visualize customer segments and key business insights.
 
 🎯 Objectives
-Analyze customer purchasing behavior
+*Analyze customer purchasing behavior
 Calculate Recency, Frequency, and Monetary values
 Segment customers based on RFM scores
 Identify high-value and at-risk customers
 Create an interactive Power BI dashboard
 Generate actionable business insights
+
 🛠️ Technologies Used
 Python
 Pandas
