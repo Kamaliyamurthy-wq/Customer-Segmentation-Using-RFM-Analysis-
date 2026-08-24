@@ -14,8 +14,8 @@ The analysis was performed on the Online Retail dataset and uses Python for data
 ▪️Generate actionable business insights
 
 🛠️ Technologies Used
-▪️Python
-▪️Pandas
+*Python
+*Pandas
 ▪️NumPy
 ▪️Matplotlib
 ▪️Seaborn
